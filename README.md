@@ -8,7 +8,8 @@
 <img align="right" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
 ---
-***This is a personal fork! Please do not use ist, insttead refer to the original!***
+***This is a personal fork! Please do not use ist, refer to the original, instead!***
+---
 ---
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
